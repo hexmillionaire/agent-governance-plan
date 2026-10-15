@@ -631,3 +631,9 @@ Feedback, critique, and issues are welcome.
 - Zero-failure gates are now presented with their statistical limits.
 
 **Added:** threat register mapped to the OWASP LLM Top 10 (2025), pre-model deterministic routing, payload blocking, approval-card hardening, evaluation sets with sizes, staged rollout, canary-based oversight measurement, incident severities, change management, RACI, a full data inventory, and NIST AI RMF mapping.
+
+---
+
+## License
+
+© 2026 Amado. This document is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — see [LICENSE](LICENSE). You may share and adapt it for any purpose, including commercially, as long as you credit the author and link to the license. The YAML configuration extracts may be reused without attribution.
